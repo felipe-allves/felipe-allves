@@ -1,4 +1,4 @@
-# 👩🏻‍💻 Felipe Alves
+# 👩🏻‍💻 Felipe Assis
 
 **`Desenvolvedor FrontEnd`**
 
@@ -12,14 +12,14 @@ Me chamo Felipe Alves de Assis, tenho 16 anos, sou de Brasília. Ainda estou no 
         <img
             alt="Total de estrelas"
             title="Total de estrelas GitHub"
-            src="https://custom-icon-badges.demolab.com/github/stars/fexz0?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
+            src="https://custom-icon-badges.demolab.com/github/stars/felipeassisdev0?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
         />
     </a>
     <a href="https://github.com/fexz0?tab=followers">
         <img
             alt="Seguidores"
             title="Me siga no GitHub"
-            src="https://custom-icon-badges.demolab.com/github/followers/fexz0?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
+            src="https://custom-icon-badges.demolab.com/github/followers/felipeassisdev0?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
         />
     </a>
 </p>
@@ -64,18 +64,18 @@ Me chamo Felipe Alves de Assis, tenho 16 anos, sou de Brasília. Ainda estou no 
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=fexz0&show_icons=true&theme=highcontrast&include_all_commits=true&locale=pt-br" 
+    src="https://github-readme-stats.vercel.app/api?username=felipeassisdev&show_icons=true&theme=highcontrast&include_all_commits=true&locale=pt-br" 
   />
   <img 
       align="left" 
       alt="GitHub Stats" 
       height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=fexz0&theme=highcontrast&layout=compact&custom_title=Tecnologias&langs_count=9" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipeassisdev&theme=highcontrast&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
    <img
       alt="GitHub Stats" 
       height="200" 
-      src="https://github-readme-streak-stats-git-main-davids-projects-ad77adcc.vercel.app/?user=fexz0&theme=highcontrast"
+      src="https://github-readme-streak-stats-git-main-davids-projects-ad77adcc.vercel.app/?user=felipeassisdev&theme=highcontrast"
       />
       <br>
       <img src="https://profile-counter.glitch.me/fexz0/count.svg" />
