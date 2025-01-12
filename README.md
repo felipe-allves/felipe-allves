@@ -53,8 +53,8 @@ Me chamo Felipe Alves de Assis, tenho 16 anos, sou de Brasília. Ainda estou no 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
 />
 
-<br>
-<br>
+<br/>
+<br/>
 
 ### 📊 Estatísticas
 
