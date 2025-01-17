@@ -58,6 +58,7 @@ Me chamo Felipe Alves de Assis, tenho 16 anos, sou de Brasília. Ainda estou no 
 
 ### 📊 Estatísticas
 
+<div>
 <p>
   <img 
     align="left" 
@@ -67,14 +68,14 @@ Me chamo Felipe Alves de Assis, tenho 16 anos, sou de Brasília. Ainda estou no 
     src="https://github-readme-stats.vercel.app/api?username=felipeassisdev&show_icons=true&theme=highcontrast&include_all_commits=true&locale=pt-br" 
   />
   <img 
-      align="left" 
       alt="GitHub Stats" 
       height="200" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipeassisdev&theme=highcontrast&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
+  </div>
    <img
       alt="GitHub Stats" 
-      height="200" 
+      height="190" 
       src="https://github-readme-streak-stats-git-main-davids-projects-ad77adcc.vercel.app/?user=felipeassisdev&theme=highcontrast"
       />
       <br>
