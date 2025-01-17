@@ -70,5 +70,5 @@ Me chamo Felipe Alves de Assis, tenho 16 anos, sou de Brasília. Ainda estou no 
   />
 </p>
       <br>
-      <img src="https://profile-counter.glitch.me/felipeassisdev/count.svg" />
+      <img style="align-itens: center;" src="https://profile-counter.glitch.me/felipeassisdev/count.svg" />
 </p>
