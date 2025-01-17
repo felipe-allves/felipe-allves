@@ -62,8 +62,8 @@ Me chamo Felipe Alves de Assis, tenho 16 anos, sou de Brasília. Ainda estou no 
 <p>
   <img alt="GitHub Stats" height="180" src="https://github-readme-stats.vercel.app/api?username=felipeassisdev&show_icons=true&theme=highcontrast&include_all_commits=true&locale=pt-br"/>
   <img alt="GitHub Stats" height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipeassisdev&theme=highcontrast&layout=compact&custom_title=Tecnologias&langs_count=9" />
-  </div
-    p style="margin-top: -10px;">
+</div>
+    <p style="margin-top: -10px;">
   <img 
     alt="GitHub Stats" 
     height="170" 
