@@ -2,7 +2,7 @@
 
 **`Desenvolvedor FrontEnd`**
 
-Me chamo Felipe Alves de Assis, tenho 16 anos, sou de Brasília. Ainda estou no ensino médio. Cursando FrontEnd na Udemy. Programador júnior, Apaixonado por tecnologia, Especializando em HTML, CSS, Javascript e Futuro Desenvolvedor FullStack.
+Me chamo Felipe Alves de Assis, tenho 17 anos, sou de Brasília. Ainda estou no ensino médio. Cursando FrontEnd na Udemy. Programador júnior, Apaixonado por tecnologia, Especializando em HTML, CSS, Javascript e Futuro Desenvolvedor FullStack.
 
 <p align="left">
   <a href="https://www.instagram.com/itz._felipe1/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
