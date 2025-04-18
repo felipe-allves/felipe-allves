@@ -84,3 +84,9 @@ Me chamo Felipe Alves de Assis, tenho 17 anos, sou de Brasília. Ainda estou no 
 <div style="margin-top: 10px;" align="center">
   <img src="https://profile-counter.glitch.me/felipeassisdev/count.svg" />
 </div>
+
+<picture align="center">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake-dark.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake.svg">
+</picture>
