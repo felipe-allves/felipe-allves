@@ -4,8 +4,8 @@
     <p>フィリップ</p>
 </div>
 
-<div align="center" width="100%">
-    <img src="https://readme-typing-svg.demolab.com?font=Pixelify+Sans&pause=1000&color=1E90FF&width=435&lines=Oi%2C+meu+nome+%C3%A9+Felipe+Alves" alt="Typing SVG"/>
+<div align="center">
+    <img src="https://readme-typing-svg.demolab.com?font=Pixelify+Sans&pause=1000&color=1E90FF&width=435&lines=Oi%2C+meu+nome+%C3%A9+Felipe+Alves" alt="Typing SVG" style="display: block; margin: 0 auto;">
 </div>
 
 <br>
@@ -46,7 +46,7 @@
 </div>
 
 <div align="center">
-    <p align="left">
+    <p>
         <a href="https://www.instagram.com/itz._felipe1/" target="_blank">
             <img src="https://img.shields.io/badge/Instagram-1E90FF?style=for-the-badge&logo=instagram" alt="Instagram">
         </a>
@@ -61,6 +61,7 @@
         </a>
     </p>
 </div>
+
 
 
 <div align="center">
@@ -130,10 +131,13 @@
 <br>
 <br>
 
-<picture align="center">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake-dark.svg">
-  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake.svg">
-</picture>
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake-dark.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake.svg" style="display: block; margin: 0 auto;">
+  </picture>
+</div>
+
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=110&color=1E90FF&textBg=false&descSize=16">
