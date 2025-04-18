@@ -5,7 +5,7 @@
 </div>
 
 <div align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=Pixelify+Sans&pause=1000&color=1E90FF&width=435&lines=Oi%2C+meu+nome+%C3%A9+Felipe+Alves" alt="Typing SVG" style="display: block; margin: 0 auto;">
+   <img src="https://readme-typing-svg.demolab.com?font=Pixelify+Sans&pause=1000&color=1E90FF&center=true&width=435&lines=Oi%2C+meu+nome+%C3%A9+Felipe+Alves" alt="Typing SVG">
 </div>
 
 <br>
