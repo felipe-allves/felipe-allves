@@ -47,17 +47,21 @@
 
 <div align="center">
     <p align="left">
-  <a href="https://www.instagram.com/itz._felipe1/" target="_blank"><img src="https://img.shields.io/badge/Instagram-1E90FF?style=for-the-badge&logo=instagram
-  " target="_blank"></a>
-    <a href="https://www.linkedin.com/in/felipe-alves-791a3a282/" target="_blank"><img src="https://img.shields.io/badge/linkedin-1E90FF?style=for-the-badge&logo=linkedin
-    " target="_blank"></a>
-  <a href="https://www.facebook.com/profile.php?id=100076062199577&locale=pt_BR" target="_blank"><img src="https://img.shields.io/badge/facebook-1E90FF?style=for-the-badge&logo=facebook
-  "></a>
-  <a href="mailto:felipealves1484@gmail.com" target="_blank"><img src="https://img.shields.io/badge/gmail-1E90FF?style=for-the-badge&logo=gmail&logoColor=white
-  " target="_blank"></a>
-  <a href="https://github.com/felipeassisdev?tab=repositories&sort=stargazers"></a>
-</p>
+        <a href="https://www.instagram.com/itz._felipe1/" target="_blank">
+            <img src="https://img.shields.io/badge/Instagram-1E90FF?style=for-the-badge&logo=instagram" alt="Instagram">
+        </a>
+        <a href="https://www.linkedin.com/in/felipe-alves-791a3a282/" target="_blank">
+            <img src="https://img.shields.io/badge/LinkedIn-1E90FF?style=for-the-badge&logo=linkedin" alt="LinkedIn">
+        </a>
+        <a href="https://www.facebook.com/profile.php?id=100076062199577&locale=pt_BR" target="_blank">
+            <img src="https://img.shields.io/badge/Facebook-1E90FF?style=for-the-badge&logo=facebook" alt="Facebook">
+        </a>
+        <a href="mailto:felipealves1484@gmail.com" target="_blank">
+            <img src="https://img.shields.io/badge/Gmail-1E90FF?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+        </a>
+    </p>
 </div>
+
 
 <div align="center">
     <img
