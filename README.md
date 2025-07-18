@@ -29,9 +29,9 @@
 <div align="center">
   <table>
     <tr>
-      <td><img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=felipeassisdev&theme=transparent"></td>
-      <td><img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=felipeassisdev&theme=transparent"></td>
-      <td><img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=felipeassisdev&theme=transparent&utcOffset=8"></td>
+      <td><img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=felipe-allves&theme=transparent"></td>
+      <td><img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=felipe-allves&theme=transparent"></td>
+      <td><img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=felipe-allves&theme=transparent&utcOffset=8"></td>
     </tr>
   </table>
 </div>
@@ -39,8 +39,8 @@
 <div align="center">
   <table>
     <tr>
-      <td><img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=felipeassisdev&theme=transparent"></td>
-      <td><img src="https://github-readme-stats.vercel.app/api?username=felipeassisdev&show_icons=true&theme=transparent&include_all_commits=true&locale=pt-br"></td>
+      <td><img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=felipe-allves&theme=transparent"></td>
+      <td><img src="https://github-readme-stats.vercel.app/api?username=felipe-allves&show_icons=true&theme=transparent&include_all_commits=true&locale=pt-br"></td>
     </tr>
   </table>
 </div>
@@ -110,7 +110,7 @@
 </div>
 
 <div align="center">
-  <img src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2Ffelipeassisdev&s=40&c=1e90ff&bg=00000000&no=4&ff=digi&tb=visits%3A+&ta=" width="175">
+  <img src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2Ffelipe-allves&s=40&c=1e90ff&bg=00000000&no=4&ff=digi&tb=visits%3A+&ta=" width="175">
 </div>
 
 <p align="center">
