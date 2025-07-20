@@ -43,7 +43,7 @@ Paralelamente, me especializo através de cursos na Udemy e na Rocketseat, sempr
       <td>
       <img src="https://github-readme-stats.vercel.app/api?username=felipe-allves&show_icons=true&theme=transparent&include_all_commits=true&locale=pt-br"></td>
       <td>
-      <img src="https://streak-stats.demolab.com?user=Filipemt&locale=pt-br&mode=daily&theme=transparent&hide_border=false&border_radius=5" alt="streak graph"  />
+      <img src="https://streak-stats.demolab.com?user=felipe-allves&locale=pt-br&mode=daily&theme=transparent&hide_border=false&border_radius=5" alt="streak graph"  />
       <td>
     </tr>
   </table>
