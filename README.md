@@ -25,9 +25,12 @@ Paralelamente, me especializo através de cursos na Udemy e na Rocketseat, sempr
 <div align="center">
   <table>
     <tr>
-      <td><img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=felipe-allves&theme=transparent"></td>
-      <td><img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=felipe-allves&theme=transparent"></td>
-      <td><img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=felipe-allves&theme=transparent&utcOffset=8"></td>
+      <td><img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=felipe-allves&theme=transparent">
+      </td><td>
+      <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=felipe-allves&theme=transparent">
+      </td>
+      <td>
+      <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=felipe-allves&theme=transparent&utcOffset=8"></td>
     </tr>
   </table>
 </div>
@@ -35,8 +38,13 @@ Paralelamente, me especializo através de cursos na Udemy e na Rocketseat, sempr
 <div align="center">
   <table>
     <tr>
-      <td><img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=felipe-allves&theme=transparent"></td>
-      <td><img src="https://github-readme-stats.vercel.app/api?username=felipe-allves&show_icons=true&theme=transparent&include_all_commits=true&locale=pt-br"></td>
+      <td><img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=felipe-allves&theme=transparent">
+      </td>
+      <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=felipe-allves&show_icons=true&theme=transparent&include_all_commits=true&locale=pt-br"></td>
+      <td>
+      <img src="https://streak-stats.demolab.com?user=Filipemt&locale=pt-br&mode=daily&theme=transparent&hide_border=false&border_radius=5" alt="streak graph"  />
+      <td>
     </tr>
   </table>
 </div>
@@ -71,18 +79,16 @@ Paralelamente, me especializo através de cursos na Udemy e na Rocketseat, sempr
 </p>
 
 <br/><br/>
+
 </td></tr></table>
 
 <div align="center">
   <img src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2Ffelipe-allves&s=40&c=1e90ff&bg=00000000&no=4&ff=digi&tb=visits%3A+&ta=" width="175">
 </div>
 
-
-
 </div>
 
 ##
-
 
 <br>
 <br>
@@ -94,6 +100,5 @@ Paralelamente, me especializo através de cursos na Udemy e na Rocketseat, sempr
     <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/felipe-allves/felipe-allves/output/github-contribution-grid-snake.svg" style="display: block; margin: 0 auto;">
   </picture>
 </div>
-
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=110&color=1E90FF&textBg=false&descSize=16">
