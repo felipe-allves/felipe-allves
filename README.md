@@ -54,6 +54,9 @@ Paralelamente, me especializo através de cursos na Udemy e na Rocketseat, sempr
         <a href="mailto:felipealves1484@gmail.com" target="_blank">
             <img src="https://img.shields.io/badge/Gmail-1E90FF?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
         </a>
+        <a href="https://discord.gg/GrxHsqU2fW" target="_blank">
+            <img src="https://img.shields.io/badge/Discord-1E90FF?style=for-the-badge&logo=discord&logoColor=white" alt="Gmail">
+        </a>
     </p>
 </div>
 
