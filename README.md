@@ -75,7 +75,7 @@ Paralelamente, me especializo através de cursos na Udemy e na Rocketseat, sempr
 ### <div align="center"> Tools </div>
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=bash,bootstrap,figma,git,npm,vercel,vscode,netlify&theme=dark&perline=2" />
+<img src="https://skillicons.dev/icons?i=bash,figma,git,npm,vercel,vscode,netlify&theme=dark&perline=2" />
 </p>
 
 <br/><br/>
