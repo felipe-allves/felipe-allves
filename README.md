@@ -1,203 +1,287 @@
-<div align="center">
+<!-- BANNER TOPO (VERMELHO DEGRADÊ) -->
+<p align="center">
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&height=230&text=Felipe%20Alves&fontColor=FFFFFF&fontAlign=50&fontAlignY=35&fontSize=56&desc=Desenvolvedor%20Front-End%20%7C%20Explorando%20Full%20Stack&descAlign=50&descAlignY=62&animation=twinkling&color=0:0B1220,50:212751,100:1A1E44"
+  />
+</p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=200&section=header&text=Felipe%20Alves&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=fff" />
+<!-- FRASE “ANDANDO” (SVG ANIMADO) -->
+<p align="center">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=18&duration=3000&pause=800&color=FFFFFF&center=true&vCenter=true&width=900&lines=O+navegador+é+minha+tela+e+o+código+é+meu+pincel+%E2%80%94+de+ideia+ao+código."
+    alt="Texto animado"
+  />
+</p>
 
-</div>
+<!-- BOTÕES TOPO -->
+<p align="center">
+  <a href="https://www.linkedin.com/in/felipe-allves" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/LinkedIn-1A1E44?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://www.behance.net/felipealves272" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Behance-1A1E44?style=for-the-badge&logo=behance&logoColor=white" />
+  </a>
+  <a href="mailto:felipealves1484@gmail.com" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Email-1A1E44?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://felipe-allves.netlify.app" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Portfólio-1A1E44?style=for-the-badge&logo=googlechrome&logoColor=white" />
+  </a>
+  <a href="https://github.com/felipe-allves" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/GitHub-1A1E44?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
 
-<div align="center">
-  
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=1E90FF&center=true&vCenter=true&repeat=true&width=600&lines=Desenvolvedor+Front-End;Criando+experi%C3%AAncias+digitais;React+%E2%80%A2+JavaScript+%E2%80%A2+Tailwind)](https://git.io/typing-svg)
+<!-- CONTADORES -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Felipe-allves&label=Profile%20Views&color=1A1E44" />
+  <img src="https://img.shields.io/github/followers/Felipe-allves?label=Followers&color=1A1E44" />
+  <img src="https://img.shields.io/github/stars/Felipe-allves?label=Stars&color=1A1E44" />
+</p>
 
-</div>
+<hr/>
 
-<div align="center">
+<h2>🧠 Sobre mim</h2>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/felipe-allves)
-[![Email](https://img.shields.io/badge/E--mail-000000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:felipealves1484@gmail.com)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=netlify&logoColor=white)](https://felipe-allves.netlify.app)
-[![GitHub](https://img.shields.io/badge/-GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/felipe-allves)
-
-</div>
-
-<br>
-
-<img align="right" alt="Developer" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
-
-## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"> Sobre mim
 ```javascript
-const felipe = {
-    role: "Desenvolvedor Front-End",
-    status: "Transição de carreira",
-    location: "Brasília, Brasil",
-    
-    code: ["JavaScript", "HTML", "CSS", "React", "Node.js"],
+import { Desenvolvedor } from "@felipe/dev";
+
+const felipe = new Desenvolvedor("Felipe Alves");
+
+felipe.setRole("Desenvolvedor Front-End");
+felipe.setStatus("Transição de carreira");
+felipe.setLocation("Taguatinga, DF, Brasil");
+
+felipe.addSkills({
+    code: ["JavaScript", "HTML", "CSS", "React"],
     technologies: {
         frontEnd: {
             js: ["React", "Vite"],
             css: ["Tailwind CSS", "CSS Modules"]
         },
         design: ["Figma", "UX/UI"],
-        tools: ["Git", "GitHub", "VS Code", "NPM"]
-    },
-    
-    currentFocus: "Criando interfaces modernas e funcionais",
-    challenge: "Buscando primeira oportunidade júnior",
-    funFact: "Acredito que a melhor forma de aprender é ensinando! 💙"
-};
+        tools: ["Git", "GitHub", "VS Code", "NPM", "Node.js"]
+    }
+});
+
+felipe.setCurrentFocus("Criando interfaces modernas e funcionais");
+felipe.setChallenge("Buscando primeira oportunidade júnior");
+felipe.setFunFact("Acredito que a melhor forma de aprender é ensinando! 💙");
 ```
 
-<br><br>
-
----
+<hr/>
 
 ## 🚀 Projetos em Destaque
+### 🔹 Bot Analyzer — Análise Inteligente de Código
+
+![Preview do projeto](https://github.com/felipe-allves/bot_analyzer/raw/master/client/public/preview/2026-01-07-180656_hyprshot.png)
+
+**Descrição:**
+Plataforma interativa que analisa código em tempo real, identificando erros e sugerindo melhorias, com sistema de gamificação para acompanhar a evolução do desenvolvedor.
+
+**Stack:**
+React • Bootstrap Icons • LocalStorage • Gemini API (IA)
+
+**Diferencial:**  
+Sistema inteligente de análise de código com feedback em tempo real, criando uma experiência interativa que simula aprendizado assistido por IA.
+
+**Principais Funcionalidades:**
+
+**Análise Inteligente**  
+Identifica automaticamente erros e sugere melhorias com base em boas práticas.
+
+**Gamificação do Aprendizado**  
+Sistema de pontos, badges e métricas que incentivam evolução contínua.
+
+**Acompanhamento de Evolução**  
+Monitora progresso, identifica padrões de erro e gera feedback personalizado.
+
+**Impacto:**  
+Transforma análise de código em uma experiência interativa, ajudando desenvolvedores a aprender com seus próprios erros de forma prática e contínua.
+
+🚀 **Acessar aplicação:** https://botanalyzer.netlify.app/  
+💻 **Ver código:** https://github.com/felipe-allves/bot_analyzer
+
+### PaletaMestre — Gerador Inteligente de Cores
+
+![preview do projeto](https://github.com/felipe-allves/PaletaMestre/raw/main/public/demonstracao.gif)
+
+**Descrição**
+Gerador de paletas de cores harmoniosas em React. Crie combinações perfeitas em segundos com diferentes tipos de harmonia cromática. 
+
+**Stack**
+React • React Router DOM • React Hot Toast • React Icons • Context API • Tailwind CSS
+
+**Diferencial**
+Geração de paletas com exportação direta para código, otimizando o fluxo entre design e desenvolvimento.
+
+**Impacto:**  
+Acelera a criação de interfaces visuais consistentes, reduzindo o tempo de decisão no design e aumentando a produtividade no desenvolvimento.
+
+**Principais Funcionalidades:**
+
+**Geração de Paletas**
+Criação automática de combinações com diferentes tipos de harmonia cromática.
+
+**Exportação para Código**
+Copie paletas diretamente para: CSS Variables, Tailwind Config, JSON
+
+**Experiência Intuitiva**
+Interface simples e rápida, focada em produtividade para devs e designers.
+
+🚀 **Acessar aplicação:** https://paletamestre.netlify.app/
+💻 **Ver código:** https://github.com/felipe-allves/PaletaMestre
+
+<h2>📊 Visão geral do GitHub</h2>
+
+<p align="center">
+  <img
+    height="165"
+    src="https://github-readme-stats.vercel.app/api?username=felipe-allves&show_icons=true&hide_border=true&locale=pt_BR&theme=holi-theme&icon_color=FF3B30"
+    alt="GitHub Stats"
+  />
+  <img
+    height="165"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipe-allves&layout=compact&hide_border=true&locale=pt_BR&theme=holi-theme"
+    alt="Linguagens mais usadas"
+  />
+</p>
+
+<p align="center">
+  <img
+    height="170"
+    src="https://streak-stats.demolab.com?user=felipe-allves&theme=holi-theme&hide_border=true&locale=pt_BR&short_numbers=true&mode=weekly"
+    alt="GitHub Streak"
+  />
+</p>
+
+<hr/>
+
+<h2>🧩 Stack tecnológica</h2>
 
 <div align="center">
+  <h4>💻 Linguagens</h4>
+  <img src="https://skillicons.dev/icons?i=js,html,css" />
+
+  <h4>🧱 Backend & Arquitetura</h4>
+  <img src="https://skillicons.dev/icons?i=nodejs,npm" />
+
+  <h4>🎨 Frontend & Design</h4>
+  <img src="https://skillicons.dev/icons?i=react,tailwind,figma" />
+
+  <h4>☁️ Cloud, DevOps & Ferramentas</h4>
+  <img src="https://skillicons.dev/icons?i=git,github,linux,windows" />
+</div>
+
+<hr/>
+
+<h2>📊 Distribuição de Expertise</h2>
 
 <table>
-<tr>
-<td width="50%">
-
-<h3 align="center">🎨 PaletaMestre</h3>
-
-<div align="center">  
-  <a href="https://github.com/felipe-allves/paletamestre" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=felipe-allves&repo=paletamestre&theme=react&bg_color=1F222E&title_color=1E90FF&icon_color=F8D866&hide_border=true&show_icons=true" alt="PaletaMestre" />
-  </a>
-</div>
-
-<p align="center">
-  <strong>Gerador de paletas de cores com 6 tipos de harmonia cromática</strong>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/-Vite-646CFF?style=flat&logo=vite&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Tailwind-06B6D4?style=flat&logo=tailwindcss&logoColor=white" />
-</p>
-
-<p align="center">
-  <a href="https://paletamestre.netlify.app" target="_blank">
-    <img src="https://img.shields.io/badge/-🌐%20Ver%20Demo-1E90FF?style=for-the-badge" />
-  </a>
-  <a href="https://www.behance.net/gallery/238072243/Design-PaletaMestre" target="_blank">
-    <img src="https://img.shields.io/badge/-🎨%20Behance-000000?style=for-the-badge&logo=behance" />
-  </a>
-</p>
-
-</td>
-
-<td width="50%">
-
-<h3 align="center">📚 CodeDocs</h3>
-
-<div align="center">  
-  <a href="https://github.com/felipe-allves/CodeDocs" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=felipe-allves&repo=CodeDocs&theme=react&bg_color=1F222E&title_color=1E90FF&icon_color=F8D866&hide_border=true&show_icons=true" alt="CodeDocs" />
-  </a>
-</div>
-
-<p align="center">
-  <strong>Plataforma interativa de documentação de linguagens</strong>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/-Vite-646CFF?style=flat&logo=vite&logoColor=white" />
-  <img src="https://img.shields.io/badge/-CSS%20Modules-1572B6?style=flat&logo=css3&logoColor=white" />
-</p>
-
-<p align="center">
-  <a href="https://codedocss.netlify.app" target="_blank">
-    <img src="https://img.shields.io/badge/-🌐%20Ver%20Demo-1E90FF?style=for-the-badge" />
-  </a>
-</p>
-
-</td>
-</tr>
+  <tr>
+    <th align="left">Área de Atuação</th>
+    <th align="center">Proficiência</th>
+    <th align="left">Destaque Principal</th>
+  </tr>
+  <tr>
+    <td><b>Desenvolvimento Frontend</b></td>
+    <td align="center"><b>Avançado</b></td>
+    <td>Design de interface, animações, responsividade</td>
+  </tr>
+  <tr>
+    <td><b>Integração Full-Stack</b></td>
+    <td align="center"><b>Em evolução</b></td>
+    <td>Integração de APIs, arquitetura, persistência</td>
+  </tr>
+  <tr>
+    <td><b>Design UI/UX</b></td>
+    <td align="center"><b>Intermediário</b></td>
+    <td>Design centrado no usuário, acessibilidade, Design Systems</td>
+  </tr>
 </table>
 
-</div>
+<hr/>
 
----
+<h2>✨ Meus Diferenciais</h2>
 
-## 💻 Tecnologias & Ferramentas
+<table>
+  <tr>
+    <th align="left">Característica</th>
+    <th align="left">Aplicação Prática</th>
+  </tr>
+  <tr>
+    <td><b>Design com Propósito</b></td>
+    <td>Cada animação tem função — não é só estética, mas significado</td>
+  </tr>
+  <tr>
+    <td><b>Dados Humanizados</b></td>
+    <td>Transformo números frios em histórias que geram empatia e ação</td>
+  </tr>
+  <tr>
+    <td><b>Comunicação Clara</b></td>
+    <td>Tradução do técnico para o simples, com foco em usuários reais</td>
+  </tr>
+  <tr>
+    <td><b>Resiliência Profissional</b></td>
+    <td>Alta adaptabilidade e entrega consistente mesmo sob pressão</td>
+  </tr>
+</table>
 
-<div align="center">
+<hr/>
 
-### 👨‍💻 Linguagens
+<h2>📈 Atividade & gráficos</h2>
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+<p align="center">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=Felipe-allves&bg_color=0B1220&color=C9D1D9&line=1E90FF&point=1E90FF&area=true&hide_border=true"
+    alt="Gráfico de atividade"
+  />
+</p>
 
-### ⚛️ Frameworks & Bibliotecas
+<hr/>
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+<h2>🌍 Aberto a oportunidades</h2>
 
-### 🛠️ Ferramentas
+<pre>
+Buscando oportunidade como:
+- Desenvolvedor Front-End (React),
+com foco em criação de interfaces modernas, responsivas e funcionais.
 
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![NPM](https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white)
-![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+Modelo:
+- Remoto | Híbrido | Presencial
 
-</div>
+Local:
+Taguatinga, DF — Brasil
+</pre>
 
----
+<hr/>
 
-## 📊 Estatísticas GitHub
+<h2>💬✨ Vamos nos conectar</h2>
 
-<div align="center">
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=felipe-allves&show_icons=true&count_private=true&hide_border=true&title_color=1E90FF&icon_color=1E90FF&text_color=c9d1d9&bg_color=0d1117" alt="Felipe Alves github stats" /> 
-  
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipe-allves&layout=compact&hide_border=true&title_color=1E90FF&text_color=c9d1d9&bg_color=0d1117" />
-</div>
+<p align="center">
+  Cada link abre uma camada diferente da minha jornada:
+</p>
 
-<div align="center">
-  
-![GitHub Streak](https://streak-stats.demolab.com/?user=felipe-allves&theme=dark&hide_border=true&stroke=1E90FF&ring=1E90FF&fire=1E90FF&currStreakLabel=1E90FF)
+<p align="center">
+  <a href="https://www.linkedin.com/in/felipe-allves" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Jornada%20Profissional-1A1E44?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/Felipe-allves" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Portfólio%20de%20Código-1A1E44?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://felipe-allves.netlify.app" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Showcase%20Interativo-1A1E44?style=for-the-badge&logo=googlechrome&logoColor=white" />
+  </a>
+</p>
 
-</div>
+<p align="center">
+  📧 <b>Email:</b> <a href="mailto:felipealves1484@gmail.com">felipealves1484@gmail.com</a><br>
+  🌍 <b>Disponível para trabalho remoto global</b>
+</p>
 
-<div align="center">
-  
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=felipe-allves&custom_title=Contribution%20Graph&bg_color=0d1117&color=1E90FF&line=1E90FF&point=FFFFFF&hide_border=true)
-
-</div>
-
----
-
-<!---
-## 🏆 GitHub Trophies
-
-<div align="center">
-  
-![](https://github-profile-trophy.vercel.app/?username=felipe-allves&theme=darkhub&no-frame=true&no-bg=false&margin-w=4&column=7)
-
-</div>
-
----
--->
-
-<div align="center">
-
-### 💙 Obrigado por visitar meu perfil!
-
-*"A melhor forma de aprender é ensinando"*
-
-**Sempre aberto para colaborações e novos desafios**
-
-</div>
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=100&section=footer" />
-
-</div>
+<!-- BANNER RODAPÉ (VERMELHO DEGRADÊ) -->
+<p align="center">
+  <img
+    src="https://capsule-render.vercel.app/api?type=rect&height=120&text=Construa%20com%20Propósito&fontColor=FFFFFF&fontSize=34&color=0:0B1220,50:212751,100:1A1E44"
+  />
+</p>
