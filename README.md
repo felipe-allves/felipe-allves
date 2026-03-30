@@ -8,7 +8,7 @@
 <!-- FRASE “ANDANDO” (SVG ANIMADO) -->
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=18&duration=3000&pause=800&color=FFFFFF&center=true&vCenter=true&width=900&lines=O+navegador+é+minha+tela+e+o+código+é+meu+pincel+%E2%80%94+de+ideia+ao+código."
+    src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=18&duration=3000&pause=800&color=FFFFFF&center=true&vCenter=true&width=900&lines=O+navegador+%C3%A9+minha+tela+e+o+c%C3%B3digo+%C3%A9+meu+pincel+%E2%80%94+da+ideia+ao+c%C3%B3digo"
     alt="Texto animado"
   />
 </p>
