@@ -1,7 +1,7 @@
 <!-- BANNER TOPO (VERMELHO DEGRADÊ) -->
 <p align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&height=230&text=Felipe%20Alves&fontColor=FFFFFF&fontAlign=50&fontAlignY=35&fontSize=56&desc=Desenvolvedor%20Front-End%20%7C%20Explorando%20Full%20Stack&descAlign=50&descAlignY=62&animation=twinkling&color=0:0B1220,50:212751,100:1A1E44"
+    src="https://capsule-render.vercel.app/api?type=waving&height=230&text=Felipe%20Alves&fontColor=FFFFFF&fontAlign=50&fontAlignY=35&fontSize=56&desc=Desenvolvedor%20Front-End%20%7C%20Explorando%20Full%20Stack&descAlign=50&descAlignY=62&animation=twinkling&color=0:D7A767ff,50:9C6847ff,100:513926ff"
   />
 </p>
 
@@ -282,6 +282,6 @@ Taguatinga, DF — Brasil
 <!-- BANNER RODAPÉ (VERMELHO DEGRADÊ) -->
 <p align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=rect&height=120&text=Construa%20com%20Propósito&fontColor=FFFFFF&fontSize=34&color=0:0B1220,50:212751,100:1A1E44"
+    src="https://capsule-render.vercel.app/api?type=rect&height=120&text=Construa%20com%20Propósito&fontColor=FFFFFF&fontSize=34&color=0:D7A767ff,50:9C6847ff,100:513926ff"
   />
 </p>
